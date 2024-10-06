@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdoJoker99
-- 👀 I’m interested in chess and  promblem solving
-- 🌱 I’m currently learning  SQL
-- 💞️ I’m looking to collaborate on  database devolpler
+- 👀 I’m interested in 
+- 🌱 I’m currently learning  
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  chessjoker27@gmiail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
