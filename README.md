@@ -147,5 +147,4 @@
 
 </div>
 <hr>
-<p>Credits: <a href="https://github.com/AbdoJoker99/coding_life/edit/main/README.md">Abdo_Wael</a>
-Last Edited on: 7/10/2024</p>  
+
