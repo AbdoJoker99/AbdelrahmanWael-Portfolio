@@ -135,7 +135,6 @@
   </td>
   <td width="50%" valign="top">
 <h2 id="its-not-perfect-isnt-it">It’s not perfect, isn’t it?</h2>
-<p><strong><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></strong></p>
 <blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 <br><strong>– Elon Musk</strong></blockquote>
   </td>
@@ -152,7 +151,7 @@
     <img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=">
 </a>
  <a href="https://codeforces.com/profile/chessjoker27">
-    <img alt="Codeforces" src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=4B6EAF&logo=Codeforces&logoColor=FFFFFF&label=">
+    <img alt="Codeforces" src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=d4af37&logo=Codeforces&logoColor=FFFFFF&label=">
 </a>
 
 </div>
