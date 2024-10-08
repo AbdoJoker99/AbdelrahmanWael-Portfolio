@@ -131,7 +131,7 @@
   <tbody><tr>
   <td width="50%" valign="top">
 <h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="chessjoker27@gmail.com">contact me by email</a>, I won’t bite, I promise.</p>
+<p>If you have any questions about web development, writing mistake-free documentation or AI, feel free to contact me by email, I won’t bite, I promise.</p>
   </td>
   <td width="50%" valign="top">
 <h2 id="its-not-perfect-isnt-it">It’s not perfect, isn’t it?</h2>
@@ -156,5 +156,5 @@
 
 </div>
 <hr>
-<p>Credits: <a href="https://github.com/AbdoJoker99/coding_life/edit/main/README.md)">Abdo_Wael</a>
+<p>Credits: <a href="https://github.com/AbdoJoker99/coding_life/edit/main/README.md">Abdo_Wael</a>
 Last Edited on: 7/10/2024</p>  
